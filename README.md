@@ -29,3 +29,11 @@ Technical Stack :
     Grafana - For data viz. and reporting 
 
 
+HDL diagram :
+
+<img width="1064" alt="Screenshot 2025-03-30 at 1 18 51 AM" src="https://github.com/user-attachments/assets/c1b3e6d0-5904-4f26-85b3-682a659c294d" />
+
+
+
+
+
